@@ -15,20 +15,20 @@ public class Fix {
    static double []cgpa1=new double[80];
 	
 	static void enter(){
-		//System.out.println("enter mai hai");
+		
 		++ec;
 		Scanner ok = new Scanner(System.in);
-		//for(int i=0;i<n;i++){
+		
 		 name[i] =ok.next();
 		    cgpa[i] = ok.nextDouble();
 		    token[i] = ok.nextInt();
-		//}
+		
 		
 	}
 	
 	
 	static void served(){
-		//System.out.println("sever mai hai");
+		
 		++sc;
 		for(int p=0;p<ec;p++)
 	    {
