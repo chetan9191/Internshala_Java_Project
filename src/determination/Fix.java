@@ -211,15 +211,12 @@ public class Fix {
 		 
 		}
 		
-		/*if(name1==null&&cgpa1==null&&token1==null)
-			System.out.println("empty");
 		
-		else*/
 		
 		fun();
 	
 		
-		//System.out.println("successfully completed");
+		
 		
 		
 	}
